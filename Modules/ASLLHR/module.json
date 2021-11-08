@@ -1,0 +1,13 @@
+{
+    "name": "ASLLHR",
+    "alias": "asllhr",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ASLLHR\\Providers\\ASLLHRServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

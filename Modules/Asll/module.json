@@ -1,0 +1,13 @@
+{
+    "name": "Asll",
+    "alias": "asll",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Asll\\Providers\\AsllServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

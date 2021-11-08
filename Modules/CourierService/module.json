@@ -1,0 +1,13 @@
+{
+    "name": "CourierService",
+    "alias": "courierservice",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\CourierService\\Providers\\CourierServiceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

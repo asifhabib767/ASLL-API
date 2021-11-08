@@ -1,0 +1,13 @@
+{
+    "name": "VoyageLighter",
+    "alias": "voyagelighter",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\VoyageLighter\\Providers\\VoyageLighterServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

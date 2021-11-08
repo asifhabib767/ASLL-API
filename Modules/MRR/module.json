@@ -1,0 +1,13 @@
+{
+    "name": "MRR",
+    "alias": "mrr",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\MRR\\Providers\\MRRServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

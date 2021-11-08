@@ -1,0 +1,13 @@
+{
+    "name": "PSD",
+    "alias": "psd",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\PSD\\Providers\\PSDServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

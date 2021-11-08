@@ -1,0 +1,13 @@
+{
+    "name": "Maintanance",
+    "alias": "maintanance",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Maintanance\\Providers\\MaintananceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,13 @@
+{
+    "name": "StoreRequisition",
+    "alias": "storerequisition",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\StoreRequisition\\Providers\\StoreRequisitionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
